@@ -1,0 +1,4 @@
+Algorithme Exo4
+Début
+	
+Fin
